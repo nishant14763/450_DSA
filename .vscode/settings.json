@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "STACK_A.C": "cpp"
+        "STACK_A.C": "cpp",
+        "BSEARCH.C": "cpp"
     }
 }
